@@ -1,0 +1,53 @@
+{
+  "license": "BOOSTBOT-sxfBj3-of5ZAN-VcwAwx-EvidfJ",
+  "proxyless": false,
+  "timeout": 120,
+  "capService": "hcoptcha",
+  "capKey": "",
+  "inviteFieldName": "Boost Society",
+  "live_stock_msg_channelID": "1246667987318996993",
+  "port" : "3423",
+  "paypal_email": "",
+  "discordSettings": {
+    "token": "",
+    "botStatus": "watching",
+    "botActivity": "Boost Bot V3",
+    "supportServer": "https://discord.gg/boostsociety",
+    "guildID": "1223735846557974539",
+    "owners": ["1118727931955511407"],
+    "embedColor": "800080",
+    "logsChannel": "1233978926632665220"
+  },
+  "customPersonalization": {
+    "onliner": true,
+    "displayName" : "! CHECK BI0",
+    "customBio": "Best UHQ and Cheapest Boosts At https://discord.gg/boostsociety",
+    "customPfp": ["logo.png"],
+    "customBanner": ["banner.png"],
+    "status": [""],
+    "statusEmoji": [""]
+  },
+  "sellixAutomationSettings": {
+    "enabled": false,
+    "shopName": "",
+    "apiKey": "",
+    "productSettings": {
+      "3_Month_Product_ID": "",
+      "3_Month_Product_Price" : 1,
+      "1_Month_Product_ID": "",
+      "1_Month_Product_Price" : 1
+    }
+  },
+  "sellappAutomationSettings": {
+    "enabled": false,
+    "apiKey": "",
+    "productSettings": {
+      "3_Month_Product_ID": "",
+      "1_Month_Product_ID": ""
+    }
+  },
+  "sellpassAutomationSettings": {
+    "enabled": false,
+    "apiKey": ""
+  }
+}
